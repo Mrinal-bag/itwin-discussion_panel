@@ -1,0 +1,19 @@
+.App {
+    background-color: burlywood;
+    padding: 1em 0 2em 0;
+    margin: 1em auto auto;
+    border-radius: 10px;
+    width: 100%;
+}
+.Tbdy{
+    width: 400px;
+    height: 50px;
+    text-align: center;
+}
+.btn {
+    background-color: crimson;
+    color : white;
+    font-size: 80%;
+    border-radius: 10px;
+}
+
